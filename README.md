@@ -1,2 +1,2 @@
 # JustNB
-RT's frame
+CIMC's frame
